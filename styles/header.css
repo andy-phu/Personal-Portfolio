@@ -17,7 +17,7 @@ body{
     top: 0;
     right: 0;
     left: 0;
-    padding: 30px 30px 30px 30px;
+    padding: 50px 50px 50px 50px;
     z-index: 10;
 }
 
@@ -29,13 +29,13 @@ body{
 
 
 .logo{
-    height: 100px;
+    height: 120px;
     margin-left: 10px;
     margin-right: 0;
 }
 
 .name{
-    font-size: 78px;
+    font-size: 90px;
     margin-left: 0;
     font-weight: 700;
     padding-top: 10px;
@@ -50,18 +50,18 @@ body{
 }
 
 .github{
-    height: 60px;
+    height: 80px;
     margin-right: 10px;
 }
 
 .instagram{
-    height: 62px;
+    height: 85px;
     margin-right: 10px;
 
 }
 
 .linkedin{
-    height: 70px;
+    height: 95px;
     margin-right: 10px;
 }
 
@@ -91,7 +91,7 @@ body{
 
 .third-about{
     width: 1600px;
-    font-size: 80px;
+    font-size: 65px;
     line-height: 100px;
     opacity: 80%;
 }
@@ -131,7 +131,7 @@ body{
 
 .project-grid{
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1450px;
     padding-left: 60px;
     row-gap: 50px;
 }
@@ -151,7 +151,7 @@ body{
 
 
 .thumbnail{
-    height: 800px;
+    height: 650px;
     width: 1490px;
     margin-left: 20px;
     margin-right: 20px;
@@ -250,7 +250,7 @@ body{
     margin-left: 68px;
     margin-right: 300px;
     margin-top: 4000px; 
-    width: 1520px;
+    width: 1440px;
 }
 
 
@@ -258,7 +258,7 @@ body{
     margin-top: 90px;
     margin-left: 68px;
     display: grid;
-    grid-template-columns:1180px 1fr;
+    grid-template-columns:1110px 1fr;
     
 }
 
