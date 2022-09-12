@@ -100,7 +100,7 @@ body{
     background-image: linear-gradient(to right, #43c6ac, #f8ffae);
     border-color: white;
     border-style: none;
-    padding: 40px 100px 40px 100px;
+    padding: 50px 568px 50px 568px;
     border-radius: 80px;
     font-size: 80px;
     font-weight: 500;
@@ -249,7 +249,7 @@ body{
     height: 3px;
     margin-left: 68px;
     margin-right: 300px;
-    margin-top: 4000px; 
+    margin-top: 3700px; 
     width: 1440px;
 }
 
