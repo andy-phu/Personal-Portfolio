@@ -7,6 +7,12 @@ body{
     font-family: ruda, Arial;
 }
 
+body {
+    overflow-x: hidden;
+ }
+
+
+
 .header{
     background-color: rgb(248, 240, 227);
     color: black;
@@ -258,7 +264,7 @@ body{
     margin-top: 90px;
     margin-left: 68px;
     display: grid;
-    grid-template-columns:1110px 1fr;
+    grid-template-columns:1050px 1fr;
     
 }
 
@@ -271,13 +277,13 @@ body{
 
 
 .number, .address{
-    font-size: 30px;
+    font-size: 40px;
     color:rgb(91, 94, 87);
     text-decoration: none;
 }
 
 .footer-title, .email{
-    font-size: 20px;
+    font-size: 30px;
     margin-bottom: 10px;
 }
 
